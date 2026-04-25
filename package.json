@@ -1,5 +1,5 @@
 {
-  "name": "n8n-nodes-xdc",
+  "name": "@velocity-bpa/n8n-nodes-xdc",
   "version": "1.0.0",
   "description": "n8n community nodes for XDC Network - Enterprise-grade blockchain with trade finance focus, XDPoS consensus, masternodes, Plugin oracles, and subnet scaling",
   "keywords": [
